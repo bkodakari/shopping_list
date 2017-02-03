@@ -24,7 +24,7 @@ def remove_from_list():
         print "You don't have that on your list anyway!"
         return shopping_list
 
-shopping_list = ["Bread", "Apples", "Cheese", "Milk"]
+shopping_list = ["Bread", "Apples", "Cheese", "Milk", "Eggs"]
 
 
 def main():
